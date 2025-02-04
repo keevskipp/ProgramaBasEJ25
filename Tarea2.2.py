@@ -1,4 +1,4 @@
-#Tarea 2.1 03/Feb
+#Tarea 2 03/Feb
 #Realizar 10 problemas
 
 #2. Crear una calculadora simple que realice operaciones basicas.
@@ -15,5 +15,5 @@ def calculadora():
     print(f"El resultado de la suma es: {suma(num1, num2)}")
     print(f"El resultado de la resta es: {resta(num1, num2)}")
     print(f"El resultado de la multi es: {multi(num1, num2)}")
-# Llamada directa a la función calculadora
+#Llamada directa a la función calculadora
 calculadora()
