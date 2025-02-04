@@ -1,4 +1,4 @@
-#Tarea 2.1 03/Feb
+#Tarea 2 03/Feb
 #Realizar 10 problemas
 
 #1. Escribir un programa que imprima ”Hola, Mundo”.
