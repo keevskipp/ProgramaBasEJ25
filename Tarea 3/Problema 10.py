@@ -28,7 +28,7 @@ def menu():
         print("\n--- Menú ---")
         print("1. Leer archivo")
         print("2. Escribir en archivo")
-        print("3. Agregar al archivo")
+        print("3. Agregar texto al archivo")
         print("4. Salir")
         opcion = input("Selecciona una opción: ")
 
