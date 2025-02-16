@@ -1,4 +1,4 @@
-#Tarea 2 15/Feb
+#Tarea 3 15/Feb
 #Realizar 10 - 20 problemas
 
 #10. Leer, escribir y modificar un archivo de texto.
