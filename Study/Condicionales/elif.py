@@ -1,6 +1,7 @@
 ingreso_mensual = 100000
 gasto_mensual = 900000
  
+ # if anindados y else if (elif)
 if ingreso_mensual > 10000:
     if gasto_mensual - ingreso_mensual < 0:
         print("Estas en deficit")
