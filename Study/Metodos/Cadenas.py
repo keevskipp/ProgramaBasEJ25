@@ -2,7 +2,7 @@ cadena1 = "Hola,Soy,Kevin"
 cadena2 = "Bienvenido champ"
 cadena3 = "wsaknc"
 
-"""Variable.Funciones()"""
+"""Variable.Funciones(propiedades)"""
 #Convierte a mayusculas
 mayus = cadena2.upper()
 
